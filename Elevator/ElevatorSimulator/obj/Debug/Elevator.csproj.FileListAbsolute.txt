@@ -1,0 +1,11 @@
+C:\Users\G508029\Documents\Elevator\Elevator\bin\Debug\Elevator.dll
+C:\Users\G508029\Documents\Elevator\Elevator\bin\Debug\Elevator.pdb
+C:\Users\G508029\Documents\Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\G508029\Documents\Elevator\Elevator\obj\Debug\Elevator.dll
+C:\Users\G508029\Documents\Elevator\Elevator\obj\Debug\Elevator.pdb
+D:\G508029\dotnet_projects\Elevator\Elevator\bin\Debug\Elevator.dll
+D:\G508029\dotnet_projects\Elevator\Elevator\bin\Debug\Elevator.pdb
+D:\G508029\dotnet_projects\Elevator\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+D:\G508029\dotnet_projects\Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+D:\G508029\dotnet_projects\Elevator\Elevator\obj\Debug\Elevator.dll
+D:\G508029\dotnet_projects\Elevator\Elevator\obj\Debug\Elevator.pdb

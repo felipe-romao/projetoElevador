@@ -1,0 +1,14 @@
+D:\github_projects\TMP\Elevator\ElevatorSimulator.ExternalService\bin\Debug\ElevatorSimulator.ExternalService.exe.config
+D:\github_projects\TMP\Elevator\ElevatorSimulator.ExternalService\bin\Debug\ElevatorSimulator.ExternalService.exe
+D:\github_projects\TMP\Elevator\ElevatorSimulator.ExternalService\bin\Debug\ElevatorSimulator.ExternalService.pdb
+D:\github_projects\TMP\Elevator\ElevatorSimulator.ExternalService\obj\Debug\ElevatorSimulator.ExternalService.csprojResolveAssemblyReference.cache
+D:\github_projects\TMP\Elevator\ElevatorSimulator.ExternalService\obj\Debug\ElevatorSimulator.ExternalService.csproj.CoreCompileInputs.cache
+D:\github_projects\TMP\Elevator\ElevatorSimulator.ExternalService\obj\Debug\ElevatorSimulator.ExternalService.exe
+D:\github_projects\TMP\Elevator\ElevatorSimulator.ExternalService\obj\Debug\ElevatorSimulator.ExternalService.pdb
+D:\github_projects\projetoElevador\Elevator\ElevatorSimulator.ExternalService\bin\Debug\ElevatorSimulator.ExternalService.exe.config
+D:\github_projects\projetoElevador\Elevator\ElevatorSimulator.ExternalService\bin\Debug\ElevatorSimulator.ExternalService.exe
+D:\github_projects\projetoElevador\Elevator\ElevatorSimulator.ExternalService\bin\Debug\ElevatorSimulator.ExternalService.pdb
+D:\github_projects\projetoElevador\Elevator\ElevatorSimulator.ExternalService\obj\Debug\ElevatorSimulator.ExternalService.csprojResolveAssemblyReference.cache
+D:\github_projects\projetoElevador\Elevator\ElevatorSimulator.ExternalService\obj\Debug\ElevatorSimulator.ExternalService.csproj.CoreCompileInputs.cache
+D:\github_projects\projetoElevador\Elevator\ElevatorSimulator.ExternalService\obj\Debug\ElevatorSimulator.ExternalService.exe
+D:\github_projects\projetoElevador\Elevator\ElevatorSimulator.ExternalService\obj\Debug\ElevatorSimulator.ExternalService.pdb
